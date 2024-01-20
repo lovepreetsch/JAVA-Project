@@ -1,5 +1,5 @@
 # JAVA-Project
-Traffic light controller
+# Traffic light controller
 
 import java.awt.*;
 import javax.swing.*;
